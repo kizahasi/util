@@ -45,6 +45,6 @@
         "typescript": "^4.3.5"
     },
     "dependencies": {
-        "@kizahasi/result": "^0.3.0"
+        "@kizahasi/result": "^1.0.0"
     }
 }
